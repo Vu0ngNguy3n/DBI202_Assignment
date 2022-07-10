@@ -1768,4 +1768,3 @@ INSERT INTO Lecturer_Session VALUES('sonnt5','DBI-IA1604-30','True')
 --Semester
 INSERT INTO [Semester] VALUES('Summer-2022','2022-05-01','2022-08-30')
 
-S
